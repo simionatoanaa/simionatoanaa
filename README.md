@@ -9,9 +9,11 @@
 
 ### 💡 Sobre mim
 
-Atualmente estou me aprofundando em **Python** e ferramentas de dados. Tenho base em **SQL**, **Power BI** e gosto muito de transformar dados em informações úteis — com visualizações, relatórios e análises que fazem sentido.
+Atualmente estou me aprofundando em Python e ferramentas para análise de dados. Tenho uma base em SQL e Power BI, e gosto de transformar dados em algo compreensível — criando visualizações, relatórios e análises que realmente contam uma história.
 
-Sou movida por curiosidade, gosto de aprender e busco sempre aplicar o que estudo em projetos reais. Aqui no GitHub, compartilho essa caminhada, com projetos, estudos e experimentos da minha jornada em dados e programação. E, além disso, carrego comigo o amor pela literatura — acredito que boas narrativas existem tanto nos livros quanto nos dados que analisamos.
+Sou movida pela curiosidade e pelo desejo de aprender constantemente. Sempre que posso, coloco o que estudo em prática por meio de projetos que unem lógica, criatividade e propósito.
+
+Aqui no GitHub, compartilho minha jornada no universo da programação e da ciência de dados. E, como apaixonada por literatura, acredito que boas narrativas também estão nos dados — basta saber interpretá-los com sensibilidade e atenção.
 
 ---
 
