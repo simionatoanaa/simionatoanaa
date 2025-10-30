@@ -1,7 +1,7 @@
 <h2 align="center">✨ Olá, eu sou a Ana Laura! ✨</h2>
 
 <p align="center">
-  🎓 Estudante de Matemática na <strong>UNESP</strong> e Ciência de Dados na <strong>Uninter</strong><br>
+  🎓 Estudante de Matemática na <strong>UNESP</strong><br>
   👩‍💻 Estagiária em análise e extração de dados | Apaixonada por tecnologia e aprendizado contínuo<br>
 </p>
 
